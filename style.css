@@ -41,13 +41,11 @@ border-radius: 8px;
 }
 .featured-title{
     color: #272727;
-font-family: Lato;
 font-size: 40px;
 font-weight: 800;
 }
 .featured-description{
     color: rgba(39, 39, 39, 0.60);
-    font-family: Lato;
     font-size: 18px;
     font-weight: 400;
     line-height: 20px;
@@ -96,4 +94,37 @@ font-weight: 800;
     font-weight: 400;
     line-height: 30px;
     width: 500px;
+}
+.instragram{
+    text-align: center;
+    padding-top: 100px;
+    align-items: center;
+    padding-bottom:200px ;
+}
+.instragram-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.instragram-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 10px 400px;
+
+}
+.instragram-image{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 200px;
+    padding-top: 20px ;
+}
+.subscribe{
+    background-image: url('Flower Asset/Rectangle\ 9.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
 }
