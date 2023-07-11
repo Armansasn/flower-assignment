@@ -202,3 +202,33 @@ nav li a{
 nav li:hover .back{
     background-color: #E55473;
 }
+.findus{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    margin: 100px;
+}
+.img-section{
+    border-top-right-radius: 50%;
+}
+
+.l-header{
+    font-size: 20px;
+    font-family: Open sans;
+    color: gray;
+    padding-bottom: 20px;
+    padding-left: 50px;
+}
+.l-title{
+    font-size: 40px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+.find{
+    padding: 100px 0;
+}
+.flower1,.flower2{
+    padding:0 50px;
+}
+.flower{
+    display: flex;
+}
