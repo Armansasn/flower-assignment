@@ -21,7 +21,7 @@ body{
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
-    width: 500px;
+    width: 600px;
 }
 .btn-primary{
     background-color: #E55473;
@@ -36,7 +36,7 @@ border-radius: 8px;
     text-align: center;
     padding-top: 100px;
     align-items: center;
-    padding-bottom:200px ;
+    padding-bottom:100px ;
 
 }
 .featured-title{
@@ -201,5 +201,4 @@ nav li a{
 }
 nav li:hover .back{
     background-color: #E55473;
-    padding: 5px;
 }
